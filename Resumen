@@ -1,0 +1,33 @@
+             APUNTES DE GITHUB
+  GIT y GITHUB:
+Git es un sistema de control de versiones(VCS) distribuido , lo cual sirve para rastrear fácilmente los cambios en su código, colaborar y compartir. Esto nos va a permitir el trabajo con otros grupos de una manera más facil.
+
+Github es una forma de usar el mismo poder de Git en linea con una interfaz fácil de usar
+     DESCRIPCIÓN DEL FLUJO DE GITHUB:
+ Dicho flujo sirve para experimentar sin el riesgo de perder el trabajo 
+ anterior.
+ REPOSITORIOS:
+Es el lugar donde se relaiza el trbajo del proyecto, contiene todos los archivos y su historial, podemos invitar a alguien más.
+ CLONACIÓN: 
+LA clonacion sirve para crear una copia local en el ordenador y luego usar Git para sincronizar ambos (la nube y la computadora), esto facilita el solucionar problemas. La clonación además extrae todos los datos del repositorio de Github . Esto sirve si experimentas con tu proyecto y luego nos damos cuenta que nos gusta mas una verison anterior.
+ COMPROMETERSE Y EMPUJAR : 
+La confirmacion y la inserción son la forma en la que podemos agregar los cambios que realizé en mi máquina local al repositorio remoto en Github.Esto significa que despues del ello los compañeros podrán ver las actualizaciones. Además podemos agregar un mensaje de confirmación para saber lo que hemos hecho en dicho trabajo. 
+Si queremos agregar una o varias confirmaciones a nuestro repositorio, podemos usar el comando push.
+    TÉRMINOS DE GITHUB QUE DEBEMOS CONOCER:
+ REPOSITORIOS(En más detalle):
+Con el panel de github podemos navegar fácilmente a nuestros repositorios y ver su información. Los repositorios tiene archivos README para agregar por que el proyecto es útil 
+ RAMAS: 
+Sirven para aislar los trabajos que aún no queremos fusionar en nuestro proyecto final. Esto nos permite corregir errores o probar de forma segura. Esto crea una nueva copia de trabajo nuestro repositorio para experimentar, al terminar si los cambios nos interesan los podemos fusionar en la rama predeterminada del repositorio.
+ TENEDORES:
+Es otra forma de copiar un repositorio, pero generalmente se usa para contribuir en el proyecto de otra persona. Esto nos permite experimentar libremente con los cambios sin afectar al proyecto principal.
+ SOLICITUD DE INCORPORACIÓN DE CAMBIOS:
+Cuando trabajamos con ramas, podemos usar esta herramienta para informar a otros sobre los cambios que deseamos realizar y pedirle sus comentarios, esto sirve para discutir con los otros colaboradores y agregar mas cambios , eliminarlos.... Cuando todo esta listo para funcionar se puede fusionar con la rama principal.
+ CUESTIONES:
+Las incidencias son una forma de realizar un seguimiento de las mejoras, las tareas o los errores de tu trabajo en GitHub. Los problemas son una excelente manera de realizar un seguimiento de todas las tareas en las que desea trabajar para su proyecto y dejar que otros sepan en qué planea trabajar. También puede usar problemas para informar a un proyecto de código abierto favorito sobre un error que encontró o una característica que cree que sería genial agregar. Cuando los proectos son mas grandes se suelen usar un tablero de proyecto , todo ello para los problemas.
+ MI PERFIL:
+Mi página de perfil sirve a los demás usuarios ener un historial de mi traajo y las diferentes contribuciones a los diferentes proyectos.
+ USO DE MARKDOWN E ITERACTUAR CON LA COMUNIDAD DE GITHUB: 
+Esto se enfoca en dar un estilo divertido a nuestras propuestas, esto también sirve para organizar la información y facilitar la lectura de los demás usuarios. Con ello podemos interactuar con toda la comunidad de Github , la cual es enorme , por ejemplo , con códigos de software abiertos ....
+
+ 
+  
